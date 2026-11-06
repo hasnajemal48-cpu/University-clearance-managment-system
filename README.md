@@ -8,4 +8,5 @@ It allows student to monitor their clearance progress and authorized staff to re
 3.Marwa Wedajo---------1596/17  Github:Marwawedajo-21
 4.Eman Ousman----------0226/17
 5.Zeyneb Endris--------0712/17
-6.Eyerus Abate---------1276/17          
+6.Eyerus Abate---------1276/17    Github:e30756346-spec    
+         
